@@ -13,7 +13,8 @@ The android app lets you:
 * Displays converted currencies in text box.
 * Easy to use and provides a simple single screen interface.
 * Dynamic currency conversion based on changes to input text.
-
+* Comeswith SQLite and Firebase
+* By Kaushik Kanuri
 Shown below are snapshots of the user-interface of the application:
 
 | Entry Screen                           | Select Currency                              | Result                                  |
